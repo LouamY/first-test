@@ -1,3 +1,2 @@
-# first-test
-first test
-README 
+#HOW TO USE GITHUB 
+WHO CAN TEACH ME 
